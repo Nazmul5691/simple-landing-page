@@ -14,6 +14,11 @@ export default function Home() {
         
         {/* added in experimental branch */}
         <Accordion />
+
+        <div>
+          <p> 1 x 1 = 1</p>
+          
+        </div>
       </main>
     </main>
 
