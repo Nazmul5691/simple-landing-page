@@ -17,6 +17,7 @@ export default function Home() {
 
         <div>
           <p> 1 x 1 = 1</p>
+          <p> 2 x 2 = 4</p>
           
         </div>
       </main>
